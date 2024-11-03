@@ -1,0 +1,9 @@
+- An ordered set of actions to be executed
+- The source of the code - git, tfvc
+- Agent to be used to run this build
+- The artifact (sharable output) that will be created
+- Variables to be used
+- The solution from where the NuGet configuration will be available
+
+C:\ProgramData\Oracle\Java\javapath
+C:\Program Files\Common Files\Oracle\Java\javapath
